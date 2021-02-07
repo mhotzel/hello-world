@@ -14,6 +14,6 @@ Eine Aufzählung:
 
 Was in **fett**
 
-Was in *kursiv*
+Was in ***kursiv und fett***
 
 Diese Änderung wurde im Branch "readme-edits" durchgeführt.
