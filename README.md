@@ -15,3 +15,5 @@ Eine Aufzählung:
 Was in **fett**
 
 Was in *kursiv*
+
+Diese Änderung wurde im Branch "readme-edits" durchgeführt.
